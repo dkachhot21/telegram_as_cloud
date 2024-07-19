@@ -3,3 +3,4 @@ node_modules
 logfile.log
 uploads
 config.ini
+session_name.session
