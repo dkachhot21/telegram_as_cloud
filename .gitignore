@@ -1,0 +1,5 @@
+.env
+node_modules
+logfile.log
+uploads
+config.ini
